@@ -6,9 +6,11 @@
 /*   By: Pablo Escobar <sataniv.rider@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/22 15:05:52 by Pablo Escob       #+#    #+#             */
-/*   Updated: 2024/09/22 15:07:30 by Pablo Escob      ###   ########.fr       */
+/*   Updated: 2024/09/22 15:29:40 by Pablo Escob      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#pragma once
 
 enum	e_errorcodes
 {
